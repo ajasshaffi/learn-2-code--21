@@ -21,6 +21,8 @@ do
     printf("\n4.Table of 4");
     printf("\n5.Table of 5");
     printf("\n6.Exit\n");
+    /*printf("Enter the option number");*/
+    scanf("%d",&a);
     if(a<6)
     {
         for(i=1;i<=10;i++)
