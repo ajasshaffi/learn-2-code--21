@@ -24,12 +24,13 @@ do
     if(a<6)
     {
         for(i=1;i<=10;i++)
-            printf("%d",a*i);
+            printf("%d ",a*i);
     }
-    else if(a>6)
+    else if (a>6)
     {
         printf("Enter a valid option!");
     }
+}
     while(a!=6);
     return 0;
 }
