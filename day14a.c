@@ -11,7 +11,7 @@ int main() {
 
     /*printf("Enter the no of rows :");*/
     scanf("%d",&r);
-    /*printf("Enter the no coloumns :");*/
+    /*printf("Enter the no columns :");*/
     scanf("%d",&c);
     /*printf("Enter the array elements");*/
     for(i=0;i<r;i++)
